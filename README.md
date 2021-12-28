@@ -149,7 +149,7 @@ cd /root/nolanjdc && mkdir -p  .local-chromium/Linux-884014 && cd .local-chromiu
 7下载 chromium 
 
 ```
-wget https://mirrors.huaweicloud.com/chromium-browser-snapshots/Linux_x64/884014/chrome-linux.zip && unzip chrome-linux.zip
+wget http://npm.taobao.org/mirrors/chromium-browser-snapshots/Linux_x64/884014/chrome-linux.zip && unzip chrome-linux.zip
 ```
 
 8删除刚刚下载的压缩包 
